@@ -48,7 +48,7 @@ if __name__ == '__main__':
     # print(r.text)
 # schoolName":name,
 # listSchoolType[0].id":"2",
-# "canRecruit":"0",
+
 
     name = random.randint(3000, 7000000)
     r = p.addschool(name,"2", "0")
